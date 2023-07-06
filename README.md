@@ -1,5 +1,6 @@
 Exploration of DVD rental data from PostgreSQL
 
+![image](https://github.com/subhathra23/git/assets/137802431/a213fd49-b4f7-4181-b0ce-68a93f1334e0)
 
 
 The goal with this repo is to find out more about the dvd database To explore a DVD database repository, we would need access to a specific repository that contains the DVD database. Without knowing the exact repository we're referring to, I can provide you with a general guideline on how to explore a repository related to DVD databases. Access the Repository,Identify the Repository,Explore the Repository & Analyze the Database.PostgreSQL's website provides a sample database of DVD rentals. Here I've compiled queries of varying complexity as a way to document the work done with the database and to keep track of my growth and skills in SQL.The tables include film, category, film category, film actor, actor, language, customer, address, city, country, payment, rental, store, inventory, and staff.
